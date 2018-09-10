@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="553e5072-2476-4866-b02e-86eccbf098a5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ServerPageCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/ServerPageCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev-release/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-943">
+              <caret line="77" column="62" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev-release/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/dashboard.module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>color</find>
+      <find>default</find>
+      <find>text-</find>
+      <find>background-color</find>
+      <find>text</find>
+      <find>Default</find>
+      <find>al-title</find>
+      <find>al-content</find>
+      <find>al-main</find>
+      <find>panel-title</find>
+      <find>panel-heading</find>
+      <find>#666666</find>
+      <find>smartTableData</find>
+      <find>metricsTableDat</find>
+      <find>col-lg-6 col-md-12</find>
+      <find>with-scroll table-panel</find>
+      <find>table table-striped</find>
+      <find>widgets</find>
+      <find>with-scr</find>
+      <find>with-scroll .t</find>
+      <find>with-scroll</find>
+      <find>table panel</find>
+      <find>table-panel</find>
+      <find>app/pages/dashboard/</find>
+      <find>ion</find>
+      <find>../node_modules</find>
+      <find>TablesPageCtrl</find>
+      <find>st-pagination</find>
+      <find>smart</find>
+      <find>server</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>var</replace>
+      <replace>node_modules</replace>
+      <replace>#ffffff</replace>
+      <replace />
+      <replace>lib</replace>
+      <replace>./bower_components</replace>
+      <replace>ServerPageCtrl</replace>
+      <replace>server</replace>
+      <replace>smart</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/dev-release</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/release/scripts/vendor-fafab123cd.js" />
+        <option value="$PROJECT_DIR$/assets/imports.js" />
+        <option value="$PROJECT_DIR$/sections/system/app-sys-information.html" />
+        <option value="$PROJECT_DIR$/release/scripts/app-09db46f41c.js" />
+        <option value="$PROJECT_DIR$/release/scripts/app-a27c7b0d8f.js" />
+        <option value="$PROJECT_DIR$/renderer-process/system/sys-information.js" />
+        <option value="$PROJECT_DIR$/renderer-process/system/cpu-information.js" />
+        <option value="$PROJECT_DIR$/release/auth.html" />
+        <option value="$PROJECT_DIR$/renderer-process/system/app-information.js" />
+        <option value="$PROJECT_DIR$/sections/about.html" />
+        <option value="$PROJECT_DIR$/renderer-process/system/copy.js" />
+        <option value="$PROJECT_DIR$/release/index.html" />
+        <option value="$PROJECT_DIR$/release/404.html" />
+        <option value="$PROJECT_DIR$/renderer-process/system/soft-information.js" />
+        <option value="$PROJECT_DIR$/SELECT.JS.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/theme/theme.run.js" />
+        <option value="$PROJECT_DIR$/dev-release/sass/common.scss" />
+        <option value="$PROJECT_DIR$/dev-release/app/theme/theme.config.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/pages.module.js" />
+        <option value="$PROJECT_DIR$/Client.js" />
+        <option value="$PROJECT_DIR$/SELECT.js" />
+        <option value="$PROJECT_DIR$/renderer-process/system/hard-information.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/tsconfig.json" />
+        <option value="$PROJECT_DIR$/modules/database.js" />
+        <option value="$PROJECT_DIR$/models/database.js" />
+        <option value="$PROJECT_DIR$/renderer-process/database/SELECT.js" />
+        <option value="$PROJECT_DIR$/renderer-process/database/Client.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/widgets/stripedRows.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/theme/components/contentTop/contentTop.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/charts/charts.module.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/basic/tables.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/basic/ordinary.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/basic/important.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/tables.module.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/basic/urgency.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/dashboard/TablesPageCtrl.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/dashboard/dashboard.module.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/main.css" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/TablesPageCtrl.js" />
+        <option value="$PROJECT_DIR$/dev-release/bower.json" />
+        <option value="$PROJECT_DIR$/node_modules/chart.js/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/dev-release/index.html" />
+        <option value="$PROJECT_DIR$/renderer-process/database/select_data.js" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/widgets/ServerTableRows.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/dashboard/smartTable.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/tables/widgets/smartTable.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/dashboard/dashboard.html" />
+        <option value="$PROJECT_DIR$/dev-release/app/pages/dashboard/ServerPageCtrl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-animate/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-chart.js/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-chartist.js/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-morris-chart/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-progress-button-styles/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-route/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-smart-table/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-touch/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular-ui-select/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/angular/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/bootstrap-tagsinput/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/highlight/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/ionrangeslider/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/jquery.easy-pie-chart/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/leaflet/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/dev-release/bower_components/slimScroll/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electron-bluradmin-rm-pagination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-bluradmin-rm-pagination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron-bluradmin-rm-pagination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-bluradmin-rm-pagination" type="462c0819:PsiDirectoryNode" />
+              <item name="dev-release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron-bluradmin-rm-pagination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-bluradmin-rm-pagination" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer-process" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron-bluradmin-rm-pagination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-bluradmin-rm-pagination" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer-process" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../electron-bluradmin-rm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/renderer-process/database_select" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/renderer-process" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev-release/app/pages/dashboard" />
+      <recent name="$PROJECT_DIR$/dev-release/app/pages/tables/widgets" />
+      <recent name="$PROJECT_DIR$/dev-release/app" />
+      <recent name="$PROJECT_DIR$/dev-release" />
+      <recent name="$PROJECT_DIR$/renderer-process/system" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="553e5072-2476-4866-b02e-86eccbf098a5" name="Default" comment="" />
+      <created>1531459177658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531459177658</updated>
+      <workItem from="1531459179567" duration="2721000" />
+      <workItem from="1531463870315" duration="2992000" />
+      <workItem from="1531467416614" duration="2954000" />
+      <workItem from="1531900414203" duration="65000" />
+      <workItem from="1531900821875" duration="80000" />
+      <workItem from="1531900976560" duration="27000" />
+      <workItem from="1531904953438" duration="1216000" />
+      <workItem from="1531912616698" duration="3148000" />
+      <workItem from="1531966304180" duration="1160000" />
+      <workItem from="1531967939980" duration="4611000" />
+      <workItem from="1531977549525" duration="1041000" />
+      <workItem from="1531987835914" duration="3439000" />
+      <workItem from="1532056178540" duration="231000" />
+      <workItem from="1532060650353" duration="2039000" />
+      <workItem from="1532331432001" duration="2090000" />
+      <workItem from="1532342942894" duration="855000" />
+      <workItem from="1532346034130" duration="629000" />
+      <workItem from="1532348656252" duration="134000" />
+      <workItem from="1532348824942" duration="1085000" />
+      <workItem from="1532432362672" duration="599000" />
+      <workItem from="1532582731137" duration="37000" />
+      <workItem from="1532591462548" duration="151000" />
+      <workItem from="1532591708422" duration="63000" />
+      <workItem from="1532592910040" duration="246000" />
+      <workItem from="1532670638081" duration="8763000" />
+      <workItem from="1532683513821" duration="504000" />
+      <workItem from="1532684188442" duration="13000" />
+      <workItem from="1532684262176" duration="246000" />
+      <workItem from="1532685592280" duration="221000" />
+      <workItem from="1532686015005" duration="145000" />
+      <workItem from="1532686345673" duration="20000" />
+      <workItem from="1532686443295" duration="72000" />
+      <workItem from="1532686549890" duration="19000" />
+      <workItem from="1532689565677" duration="20000" />
+      <workItem from="1532689926263" duration="226000" />
+      <workItem from="1532690574738" duration="1639000" />
+      <workItem from="1532695441268" duration="593000" />
+      <workItem from="1532866687661" duration="28000" />
+      <workItem from="1532873583990" duration="32000" />
+      <workItem from="1532874335927" duration="1360000" />
+      <workItem from="1532883097201" duration="5296000" />
+      <workItem from="1533108563977" duration="56000" />
+      <workItem from="1533111317067" duration="865000" />
+      <workItem from="1533112260312" duration="130000" />
+      <workItem from="1533112485493" duration="5202000" />
+      <workItem from="1533201371257" duration="392000" />
+      <workItem from="1533202757365" duration="350000" />
+      <workItem from="1533203216409" duration="582000" />
+      <workItem from="1533206834012" duration="875000" />
+      <workItem from="1533208424837" duration="1359000" />
+      <workItem from="1533368201491" duration="1763000" />
+      <workItem from="1533374463434" duration="1526000" />
+      <workItem from="1533378232545" duration="32000" />
+      <workItem from="1533378560581" duration="611000" />
+      <workItem from="1533381243406" duration="30000" />
+      <workItem from="1533383757409" duration="391000" />
+      <workItem from="1533384875405" duration="157000" />
+      <workItem from="1533385304227" duration="122000" />
+      <workItem from="1533390910970" duration="3031000" />
+      <workItem from="1533394101932" duration="3421000" />
+      <workItem from="1533607847941" duration="13000" />
+      <workItem from="1533608284718" duration="43000" />
+      <workItem from="1533608381463" duration="56000" />
+      <workItem from="1533608523085" duration="362000" />
+      <workItem from="1533892125600" duration="2452000" />
+      <workItem from="1533896460818" duration="69000" />
+      <workItem from="1533898095162" duration="2083000" />
+      <workItem from="1533971077143" duration="6733000" />
+      <workItem from="1533992658393" duration="6000" />
+      <workItem from="1534047531040" duration="5651000" />
+      <workItem from="1534127272987" duration="6826000" />
+      <workItem from="1534136142290" duration="5513000" />
+      <workItem from="1534165918395" duration="1753000" />
+      <workItem from="1534225486747" duration="3889000" />
+      <workItem from="1534397017920" duration="6027000" />
+      <workItem from="1534408838911" duration="1875000" />
+      <workItem from="1535515664683" duration="3238000" />
+      <workItem from="1535523613883" duration="5488000" />
+      <workItem from="1535976956573" duration="237000" />
+      <workItem from="1536050976409" duration="2015000" />
+      <workItem from="1536062763550" duration="73000" />
+      <workItem from="1536062855193" duration="133000" />
+      <workItem from="1536063275734" duration="6503000" />
+      <workItem from="1536134007282" duration="78000" />
+      <workItem from="1536137094346" duration="6097000" />
+      <workItem from="1536154674921" duration="1612000" />
+      <workItem from="1536198227560" duration="1205000" />
+      <workItem from="1536200403509" duration="2048000" />
+      <workItem from="1536203597087" duration="1448000" />
+      <workItem from="1536205247729" duration="2658000" />
+      <workItem from="1536227727528" duration="4314000" />
+      <workItem from="1536304085261" duration="4728000" />
+      <workItem from="1536308962425" duration="5491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162511000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3017706" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/ui/buttons/buttons.module.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/ui/grid/grid.module.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/ui/grid/grid.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/ui/grid/baseGrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/ui/ui.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/theme/components/contentTop/contentTop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/release/scripts/app-693c7a3ed1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/pieCharts/dashboardPieChart.js" />
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/trafficChart/trafficChart.html" />
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/trafficChart/TrafficChartCtrl.js" />
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/amCharts/combinedChart/combinedChartCtrl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/amCharts/amCharts.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/charts.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/pages.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/amCharts/areaChart/AreaChartCtrl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/chartist/chartist.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/morris/morris.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/charts/amCharts/charts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/hoverRows.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/responsiveTable.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/basicTable.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1923" column="18" lean-forward="true" selection-start-line="1923" selection-start-column="18" selection-end-line="1923" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/bower.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/bower.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/basic/ordinary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/basic/urgency.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/basic/important.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/tables.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer-process/database/select_data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/smart/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/TablesPageCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/ServerTableRows.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/editableTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/condensedTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/borderedTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/editableRowTable.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/contextualTable.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/smartTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/tables/widgets/stripedRows.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/smartTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer-process/database/Client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer-process/database/SELECT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/dashboard.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/app/pages/dashboard/ServerPageCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943">
+          <caret line="77" column="62" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-release/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

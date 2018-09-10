@@ -1,0 +1,26 @@
+<div class="vertical-scroll">
+    <!--<table class="table table-striped" st-table="smartTableData" st-safe-src="smartTableData1">-->
+    <table class="table table-striped">
+      <thead>
+        <tr>
+            <th class="table-id">主机id</th>
+            <th>分组名称</th>
+            <th>类型名称</th>
+            <th>等级名称</th>
+            <th>日志时间</th>
+            <th>日志消息</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="item in smartTableData">
+            <td class="table-id">{{item.svrid}}</td>
+            <td>{{item['分组名称']}}</td>
+            <td>{{item['类型名称']}}</td>
+            <td>{{item['等级名称']}}</td>
+            <td>{{item['日志时间']}}</td>
+            <td>{{item['日志消息']}}</td>
+            <!--<td><a class="email-link" ng-href="mailto:{{item.email}}">{{item.email}}</a></td>-->
+        </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,47 @@
+<div class="horizontal-scroll">
+  <div class="form-group select-page-size-wrap ">
+    <label>Rows on page
+      <select class="form-control selectpicker show-tick" title="Rows on page" selectpicker
+              ng-model="smartTablePageSize" ng-options="i for i in [5,10,15,20,25]">
+      </select>
+    </label>
+  </div>
+  <table class="table" st-table="serverTableData">
+    <thead>
+    <tr class="sortable">
+      <th class="table-id">服务器名称</th>
+      <th>主机名</th>
+      <th>ip</th>
+      <th>状态</th>
+      <th>厂站原名</th>
+      <th>生产厂商</th>
+      <th>厂站属性</th>
+      <th>所属单位</th>
+      <th>操作系统类型</th>
+      <th>服务id</th>
+      <th>最后连接时间</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="item in serverTableData">
+      <td class="table-id">{{item.id}}</td>
+      <td>{{item.hostname}}</td>
+      <td>{{item.lv9}}</td>
+      <td>{{item.online}}</td>
+      <td>{{item.lv1}}</td>
+      <td>{{item.lv6}}</td>
+      <td>{{item.lv7}}</td>
+      <td>{{item.lv5}}</td>
+      <td>{{item.ostype}}</td>
+      <td>{{item.svrid}}</td>
+      <td>{{item.lastdate}}</td>
+    </tbody>
+    <tfoot>
+    <tr>
+      <td colspan="6" class="text-center">
+        <div st-pagination="" st-items-by-page="serverTablePageSize" st-displayed-pages="5"></div>
+      </td>
+    </tr>
+    </tfoot>
+  </table>
+</div>

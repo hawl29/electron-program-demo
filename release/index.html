@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="BlurAdmin">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>系统监视器-demo</title>
+
+  <script>window.$ = window.jQuery = require('jquery');</script>
+  <link rel="stylesheet" href="styles/vendor-dddc8eebb5.css">
+
+  <link rel="stylesheet" href="styles/app-27362a0587.css">
+</head>
+<body>
+<div class="body-bg"></div>
+<main ng-if="$pageFinishedLoading" ng-class="{ 'menu-collapsed': $baSidebarService.isMenuCollapsed() }">
+
+  <ba-sidebar></ba-sidebar>
+  <page-top></page-top>
+
+  <div class="al-main">
+    <div class="al-content">
+      <content-top></content-top>
+      <div ui-view autoscroll="true" autoscroll-body-top></div>
+    </div>
+  </div>
+
+
+
+  <back-top></back-top>
+</main>
+
+<div id="preloader" ng-show="!$pageFinishedLoading">
+  <div></div>
+</div>
+
+
+
+<script src="scripts/vendor-fafab123cd.js"></script>
+
+<script src="scripts/app-693c7a3ed1.js"></script>
+
+</body>
+</html>
